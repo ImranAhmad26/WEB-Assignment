@@ -1,0 +1,86 @@
+.top{
+    background-image: url('Img/Asset 1 3.png');
+    width: 100%;
+    height: 600px;
+    border: 1px solod black;
+}
+.top ul{
+    width: 50%;
+    float: right;
+    list-style: none;
+}
+.top ul li{
+    float: left;
+    padding-right:20px;
+    color: gray;
+}
+.under_top1{
+    font-size: 25px; 
+    position: absolute;
+    padding: 100px 0px 0px 70px;
+}
+.under_top{
+    float: right;
+    margin: 50px 100px 0px 0px;
+}
+
+.after_top{
+    width: 1359px;
+    height: 200px;
+    margin-left: -20px;
+    background-color: rgb(207, 192, 192);
+    border: 1px solid rgb(207, 184, 184);
+    
+}
+.button{
+    width: 100px;
+    background-color: blue;
+    color: white;
+    border: 1px solid blue;
+    padding: 10px;
+    text-align: center;
+    border-radius: 70px;
+    margin: 30px 0px 20px 500px;
+}
+.between{
+    width: 1359px;
+    height: 600px;
+    margin-left: -20px;
+    margin-bottom: 20px;
+    background-image: url("Img/Union.png");
+    border: 1px solid rgb(207, 184, 184);
+
+}
+.clint{
+    float: right;
+    margin: -170px 150px 0px 0px; 
+}
+.one{
+    width: 50%;
+    float: left;
+    margin-bottom: 180px;
+    color: blue;
+}
+.two{
+    width: 50%;
+    float: right;
+    margin-bottom: 180px;
+    color: blue;
+}
+.last{
+    width: 1359px;
+    height: 300px;
+    margin-left: -20px;
+    background-color: rgb(207, 192, 192);
+    border: 1px solid rgb(207, 184, 184);
+}
+.under_last{
+    position: absolute;
+    padding-left: 400px;
+    margin-top:-200px ;
+}
+.under_last2{
+    position: absolute;
+    padding-left: 960px;
+    margin-top:-200px   
+}
